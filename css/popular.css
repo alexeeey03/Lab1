@@ -1,0 +1,50 @@
+.pop{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 7%;
+}
+.headerpop{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    color: #AE7C78;
+}
+.textflowerspop{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 3%;
+    color: hsl(4, 25%, 58%);
+    margin-left: 16%;
+    margin-right: 16%;
+}
+.textflowerspop h2{
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+.description{
+    margin: 0 6%;
+    flex:1;
+    
+}
+.description a{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #AE7C78;
+    color: white;
+    padding: 6% 20%;
+    border-radius: 100px;
+}
+.description p{
+    margin-bottom: 7%;
+    font-family: 'Montserrat', sans-serif;
+}
+.button{
+    margin-top: 20%;
+}
+.flowers{
+    height: 6%;
+    width: auto;
+    
+    flex: 1;
+}

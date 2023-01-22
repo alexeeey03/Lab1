@@ -1,0 +1,32 @@
+.sale{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-bottom: 7%;
+    background-color: #AE7C78;
+}
+.saletext{
+    flex:1;
+    color: white;
+}
+.saletext h2{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+    margin-top: 11%;
+    
+}
+.saletext p{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    margin-bottom: 7%;
+}
+.salephoto{
+    flex: 1;
+}
